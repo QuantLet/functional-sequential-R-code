@@ -5,7 +5,7 @@ and empirical illustrations in the manuscript:
 **“Online Monitoring of Functional Time Series with Adjusted-Range Self-Normalization: Applications to Financial Data”**
 
 The code focuses on online change-point monitoring for (possibly dependent) functional
-time series, using FPCA-based scores and self-normalization (including adjusted-range SN).
+time series, using FPCA-based scores and HAC, Shao's (2010) self-normalization and the adjusted-range based self-normalization (Hong et al., 2024).
 
 ---
 
