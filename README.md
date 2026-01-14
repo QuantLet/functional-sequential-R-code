@@ -26,6 +26,6 @@ Keywords:
 - Financial econometrics
 - R
 
-Author: Jiajing Sun, Meiting Zhu, Wolfgang Karl Härdle, Zhuo Lin, Oliver Linton
+Author: Jiajing Sun, Meiting Zhu, Wolfgang Karl Härdle, Zhuo Lin 
 
 ```
